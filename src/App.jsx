@@ -1,4 +1,11 @@
+import Formulario from './components/Formulario';
+
 function App() {
-  return <h1>Hello World</h1>;
+  return (
+    <div>
+      <Formulario />
+    </div>
+  );
 }
+
 export default App;
